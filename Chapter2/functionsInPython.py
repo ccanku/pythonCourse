@@ -7,4 +7,4 @@ def kredileriListele():
 
 kredileriListele()
 
-git deneme
+spyder denemesi 2
