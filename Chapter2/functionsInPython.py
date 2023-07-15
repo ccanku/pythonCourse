@@ -7,4 +7,4 @@ def kredileriListele():
 
 kredileriListele()
 
-git denemesi 2
+git maini masterla değiştirme
